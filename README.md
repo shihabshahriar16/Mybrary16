@@ -3,4 +3,4 @@
 ### 'The database is stored in MongoDB.'
 ### 'The Frontend is made with a templating language (.ejs).'
 ### 'The project follows MVC pattern.'
-### 'The project is made following 'Full stack webstite dev' playlist of 'Web dev simplified' youtube channel.'
+### 'The project is made following 'Full stack web dev' playlist of 'Web dev simplified' youtube channel.'
