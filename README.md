@@ -1,4 +1,6 @@
 ### 'This is an online library website made with javascript.'
+### 'To run the project type 'node server.js' in command line inside the project folder'
+### 'Node js must be installed to run the project'
 ### 'The backend is made with Node.js (Express).'
 ### 'The database is stored in MongoDB.'
 ### 'The Frontend is made with a templating language (.ejs).'
